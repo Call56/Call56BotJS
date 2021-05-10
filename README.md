@@ -1,2 +1,12 @@
 # Call56BotJS
-Call56BotをすべてJavaScriptにする計画です。処理が少し早くなる代わりに一部の機能は廃止されると思われます。
+
+# 使用エディタ
+Visual Studio Code
+
+# 言語
+JavaScript(discord.py)
+
+# 環境
+DiscordCanary
+Node.js 16.0
+discord.js
